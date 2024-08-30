@@ -1,0 +1,1 @@
+    pattern12(n)
